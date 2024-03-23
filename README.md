@@ -3,3 +3,5 @@
 2. Linebackers 
 3. DB (Safety/Corners) 
 
+
+![Schema](images/leveon_bell.jpeg)
