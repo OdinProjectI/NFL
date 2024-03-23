@@ -4,4 +4,4 @@
 3. DB (Safety/Corners) 
 
 
-![Schema](images/leveon_bell.jpeg)
+![Schema](images/derrick_henry.jpeg)
